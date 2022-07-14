@@ -6,7 +6,6 @@
 ![Forks](https://img.shields.io/github/forks/ImmuniwebSA/run-neuron-action?style=plastic&color=003cff&label=Forks)
 ![Watchers](https://img.shields.io/github/watchers/ImmuniwebSA/run-neuron-action?style=plastic&color=ff5500&label=Watchers)
 ![Contributors](https://img.shields.io/github/contributors/ImmuniwebSA/run-neuron-action?style=plastic&color=f0f&label=Contributors)
-![License](https://img.shields.io/github/license/ImmuniwebSA/run-neuron-action?style=plastic&color=555&label=License)
 
 This is Github action to run ImmuniWeb Neuron automated project scan.
 
