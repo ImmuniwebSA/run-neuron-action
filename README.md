@@ -1,5 +1,13 @@
 # ImmuniwebSA/run-neuron-action@main
 
+![Size](https://img.shields.io/github/repo-size/ImmuniwebSA/run-neuron-action?style=plastic&color=0f0&label=Size)
+![Updated](https://img.shields.io/github/last-commit/ImmuniwebSA/run-neuron-action?style=plastic&color=f00&label=Updated)
+![Stars](https://img.shields.io/github/stars/ImmuniwebSA/run-neuron-action?style=plastic&color=ffc801&label=Stars)
+![Forks](https://img.shields.io/github/forks/ImmuniwebSA/run-neuron-action?style=plastic&color=003cff&label=Forks)
+![Watchers](https://img.shields.io/github/watchers/ImmuniwebSA/run-neuron-action?style=plastic&color=ff5500&label=Watchers)
+![Contributors](https://img.shields.io/github/contributors/ImmuniwebSA/run-neuron-action?style=plastic&color=f0f&label=Contributors)
+![License](https://img.shields.io/github/license/ImmuniwebSA/run-neuron-action?style=plastic&color=555&label=License)
+
 This is Github action to run ImmuniWeb Neuron automated project scan.
 
 https://www.immuniweb.com/products/neuron/
