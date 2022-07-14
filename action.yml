@@ -1,19 +1,13 @@
 name: "Run ImmuniWeb Neuron scan"
-description: "Runs ImmuniWeb Neuron analysis"
-author: "ImmuniWeb"
+description: "Run ImmuniWeb Neuron automated scan"
+author: "ImmuniWeb SA"
 
 branding:
   icon: "mic"
   color: "blue"
-
-on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
     
 inputs:
-  iwkey:
+  apikey:
     description: "API key"
     required: true
   target:
@@ -24,5 +18,5 @@ runs:
   using: docker
   image: dockerfile
   env:
-    APIKEY: ${{ inputs.iwkey }}
+    APIKEY: ${{ inputs.apikey }}
     TARGET: ${{ inputs.target }}
