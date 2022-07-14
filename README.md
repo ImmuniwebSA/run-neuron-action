@@ -1,6 +1,6 @@
 # ImmuniwebSA/run-neuron-action@main
 
-This is Github action to run ImmuniWeb Neuron automated scan
+This is Github action to run ImmuniWeb Neuron automated project scan.
 
 ## How to use it?
 
