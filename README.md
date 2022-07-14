@@ -2,6 +2,8 @@
 
 This is Github action to run ImmuniWeb Neuron automated project scan.
 
+https://www.immuniweb.com/products/neuron/
+
 ## How to use it?
 
 1. First, you should have an active ImmuniWeb Neuron project, where you can get API key and set Target URL values.
